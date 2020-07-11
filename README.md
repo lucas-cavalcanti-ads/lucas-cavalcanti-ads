@@ -14,7 +14,7 @@ $scope.informations = {
             "state" : "São Paulo",
             "city" : "São Paulo"
         },
-        "Since" : 1996,
+        "since" : 1996,
         "pleasures" : [
             "girlfriend",
             "family",
