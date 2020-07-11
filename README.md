@@ -4,7 +4,56 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Olá 👋, 
 
-:br: São Paulo, SP
+<font color="green"> Some green text </font>
+$scope.informations = {
+    "personal" : {
+        "location" : {
+            "country" : "Brazil",
+            "state" : "São Paulo"
+            "city" : "São Paulo"
+        },
+        "Since" : 1996,
+        "pleasures" : [
+            "girlfriend",
+            "family",
+            "friends",
+            "soccer",
+            "eat",
+            "sleep"
+        ] 
+    },
+    "study" : {
+        "college" : "FIAP",
+        "periodontitis" : "2/4",
+        "location" : {
+            "country" : "Brazil",
+            "state" : "São Paulo"
+            "city" : "São Paulo"
+        },
+        "interests" : [
+            "Angular JS/+2",
+            "Type Script",
+            "Java Script",
+            "JSON",
+            "HTML 5",
+            "CSS 3",
+            "Bootstrap 4",
+            "Design UX/UI",
+            ".NET",
+            "Java",
+            "Spring Boot",
+            "Git / Github",
+            "Swagger",
+            "Postman",
+            "MVC"
+            "AWS"
+        ]
+    },
+    "professional" : {
+        "company" : "Itaú Unibanco",
+        "office" : "Software Engineer"
+    }
+}
 
 
 
