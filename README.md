@@ -8,7 +8,7 @@
 + text in green
 ! text in orange
 # text in gray
-```
+
 $scope.informations = { 
 <br>&emsp;&emsp;
     "personal" : {
@@ -106,3 +106,4 @@ $scope.informations = {
 }<br>
 
 
+```
