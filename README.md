@@ -18,39 +18,41 @@ $scope.informations = {
             <br>
         },
         <br>
-        "Since" : 1996,
+&emsp;&emsp;&emsp;&emsp;"Since" : 1996,
         <br>
-        "pleasures" : [
+&emsp;&emsp;&emsp;&emsp;"pleasures" : [
         <br>
-            "girlfriend",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"girlfriend",
             <br>
-            "family",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"family",
             <br>
-            "friends",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"friends",
             <br>
-            "soccer",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"soccer",
             <br>
-            "eat",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"eat",
             <br>
-            "sleep"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"sleep"
             <br>
-        ] <br>
-    },<br>
-    "study" : {
+&emsp;&emsp;&emsp;&emsp;] <br>
+&emsp;&emsp;},<br>
+&emsp;&emsp;"study" : {
     <br>
-        "college" : "FIAP",
+&emsp;&emsp;&emsp;&emsp;"college" : "FIAP",
         <br>
-        "periodontitis" : "2/4",
+&emsp;&emsp;&emsp;&emsp;"periodontitis" : "2/4",
         <br>
+<br>&emsp;&emsp;&emsp;&emsp;
         "location" : {
         <br>
-            "country" : "Brazil",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"country" : "Brazil",
             <br>
-            "state" : "São Paulo"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"state" : "São Paulo"
             <br>
-            "city" : "São Paulo"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"city" : "São Paulo"
             <br>
-        },<br>
+        },
+        <br>
         "interests" : [
         <br>
             "Angular JS/+2",
