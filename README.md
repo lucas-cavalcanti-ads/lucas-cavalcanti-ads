@@ -42,7 +42,7 @@ $scope.informations = {
         <br>
 &emsp;&emsp;&emsp;&emsp;"periodontitis" : "2/4",
         <br>
-<br>&emsp;&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;
         "location" : {
         <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"country" : "Brazil",
