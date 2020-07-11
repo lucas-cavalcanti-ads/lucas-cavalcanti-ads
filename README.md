@@ -8,19 +8,13 @@
 <h1 style="color:orange;">teste</h1>
 ```
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
 
 ```json
 $scope.informations = {
     "personal" : {
         "location" : {
             "country" : "Brazil",
-            "state" : "São Paulo"
+            "state" : "São Paulo",
             "city" : "São Paulo"
         },
         "Since" : 1996,
@@ -39,7 +33,7 @@ $scope.informations = {
         "periodontitis" : "2/4",
         "location" : {
             "country" : "Brazil",
-            "state" : "São Paulo"
+            "state" : "São Paulo",
             "city" : "São Paulo"
         },
         "interests" : [
