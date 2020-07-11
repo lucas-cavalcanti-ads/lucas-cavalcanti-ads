@@ -1,7 +1,7 @@
 # Lucas de Paula
-[![Linkedin Badge](https://img.shields.io/badge/-LucasPaula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascavalcantiads/)](https://www.linkedin.com/in/lucascavalcantiads/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascavalcantiads/)](https://www.linkedin.com/in/lucascavalcantiads/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucas-cavalcanti-ads)](https://github.com/lucas-cavalcanti-ads)
-[![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Hello 👋, 
 
 :small_orange_diamond: I am Lucas, currently Software Engineer with a focus on Frontend, I am a lover of technology and I always try to introduce myself even more in this field. More informations :point_down:
