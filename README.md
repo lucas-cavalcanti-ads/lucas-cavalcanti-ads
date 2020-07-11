@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Olá 👋, 
 
-<font color="green"> Some green text </font>
+@@Some green text@@
 $scope.informations = {
     "personal" : {
         "location" : {
