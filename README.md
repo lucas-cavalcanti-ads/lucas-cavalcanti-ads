@@ -3,6 +3,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucas-cavalcanti-ads)](https://github.com/lucas-cavalcanti-ads)
 [![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Olá 👋, 
+
+```html
+<h1 style="color:orange;">teste</h1>
+```
+
 ```diff
 - text in red
 + text in green
