@@ -9,13 +9,12 @@ $scope.informations = {
     "personal" : {
 <br>&emsp;&emsp;&emsp;&emsp;
         "location" : {
-        <br>&emsp;&emsp;&emsp;&emsp;
         <br>
-            "country" : "Brazil",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"country" : "Brazil",
             <br>
-            "state" : "São Paulo"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"state" : "São Paulo"
             <br>
-            "city" : "São Paulo"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"city" : "São Paulo"
             <br>
         },
         <br>
