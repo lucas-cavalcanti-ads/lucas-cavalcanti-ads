@@ -51,52 +51,53 @@ $scope.informations = {
             <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"city" : "São Paulo"
             <br>
-        },
+&emsp;&emsp;&emsp;&emsp;},
         <br>
-        "interests" : [
+&emsp;&emsp;&emsp;&emsp;"interests" : [
         <br>
-            "Angular JS/+2",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Angular JS/+2",
             <br>
-            "Type Script",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Type Script",
             <br>
-            "Java Script",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Java Script",
             <br>
-            "JSON",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"JSON",
             <br>
-            "HTML 5",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"HTML 5",
             <br>
-            "CSS 3",<br>
-            "Bootstrap 4",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"CSS 3",
             <br>
-            "Design UX/UI",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Bootstrap 4",
             <br>
-            ".NET",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Design UX/UI",
             <br>
-            "Java",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;".NET",
             <br>
-            "Spring Boot",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Java",
             <br>
-            "Git / Github",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Spring Boot",
             <br>
-            "Swagger",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Git / Github",
             <br>
-            "Postman",
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Swagger",
             <br>
-            "MVC"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Postman",
             <br>
-            "AWS"
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"MVC"
             <br>
-        ]
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"AWS"
+            <br>
+&emsp;&emsp;&emsp;&emsp;]
         <br>
-    },
+&emsp;&emsp;},
     <br>
-    "professional" : {
+&emsp;&emsp;"professional" : {
     <br>
-        "company" : "Itaú Unibanco",
+&emsp;&emsp;&emsp;&emsp;"company" : "Itaú Unibanco",
         <br>
-        "office" : "Software Engineer"
+&emsp;&emsp;&emsp;&emsp;"office" : "Software Engineer"
         <br>
-    }<br>
+&emsp;&emsp;}<br>
 }<br>
 
 
