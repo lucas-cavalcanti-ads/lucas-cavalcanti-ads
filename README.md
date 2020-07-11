@@ -5,7 +5,7 @@
 ## Olá 👋, 
 
 $scope.informations = { <br>
-    &nbsp;&nbsp;&nbsp;"personal" : {
+&emsp;"personal" : {
         "location" : {
             "country" : "Brazil",
             "state" : "São Paulo"
