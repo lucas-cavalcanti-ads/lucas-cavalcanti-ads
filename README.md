@@ -5,7 +5,7 @@
 ## Olá 👋, 
 
 `` html
-   <h1 style="color: orange;">teste</h1>
+   <h1 color: orange>teste</h1>
 $scope.informations = {
     "personal" : {
         "location" : {
