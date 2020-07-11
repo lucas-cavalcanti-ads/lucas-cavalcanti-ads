@@ -4,18 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Olá 👋, 
 
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" 
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
-
 $scope.informations = { 
 <br>&emsp;&emsp;
     "personal" : {
