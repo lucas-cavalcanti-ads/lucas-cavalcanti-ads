@@ -13,7 +13,9 @@
 + text in green
 ! text in orange
 # text in gray
+```
 
+```json
 $scope.informations = {
     "personal" : {
         "location" : {
@@ -65,5 +67,5 @@ $scope.informations = {
         "office" : "Software Engineer"
     }
 }
-
 ```
+
