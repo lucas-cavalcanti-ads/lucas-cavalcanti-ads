@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucas.tnv27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Olá 👋, 
 
+<span style="color:orange;">Word up</span>
+
 $scope.informations = { 
 <br>&emsp;&emsp;
     "personal" : {
