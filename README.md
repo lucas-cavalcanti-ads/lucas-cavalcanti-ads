@@ -16,7 +16,7 @@ $scope.informations = {
             <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"city" : "São Paulo"
             <br>
-        },
+&emsp;&emsp;&emsp;&emsp;},
         <br>
 &emsp;&emsp;&emsp;&emsp;"Since" : 1996,
         <br>
