@@ -5,55 +5,97 @@
 ## Olá 👋, 
 
 $scope.informations = { 
-<br>&emsp;&emsp;"personal" : {
+<br>&emsp;&emsp;
+    "personal" : {
+<br>&emsp;&emsp;&emsp;&emsp;
         "location" : {
+        <br>&emsp;&emsp;&emsp;&emsp;
+        <br>
             "country" : "Brazil",
+            <br>
             "state" : "São Paulo"
+            <br>
             "city" : "São Paulo"
+            <br>
         },
+        <br>
         "Since" : 1996,
+        <br>
         "pleasures" : [
+        <br>
             "girlfriend",
+            <br>
             "family",
+            <br>
             "friends",
+            <br>
             "soccer",
+            <br>
             "eat",
+            <br>
             "sleep"
-        ] 
-    },
+            <br>
+        ] <br>
+    },<br>
     "study" : {
+    <br>
         "college" : "FIAP",
+        <br>
         "periodontitis" : "2/4",
+        <br>
         "location" : {
+        <br>
             "country" : "Brazil",
+            <br>
             "state" : "São Paulo"
+            <br>
             "city" : "São Paulo"
-        },
+            <br>
+        },<br>
         "interests" : [
+        <br>
             "Angular JS/+2",
+            <br>
             "Type Script",
+            <br>
             "Java Script",
+            <br>
             "JSON",
+            <br>
             "HTML 5",
-            "CSS 3",
+            <br>
+            "CSS 3",<br>
             "Bootstrap 4",
+            <br>
             "Design UX/UI",
+            <br>
             ".NET",
+            <br>
             "Java",
+            <br>
             "Spring Boot",
+            <br>
             "Git / Github",
+            <br>
             "Swagger",
+            <br>
             "Postman",
+            <br>
             "MVC"
+            <br>
             "AWS"
+            <br>
         ]
+        <br>
     },
+    <br>
     "professional" : {
+    <br>
         "company" : "Itaú Unibanco",
+        <br>
         "office" : "Software Engineer"
-    }
-}
+        <br>
+    }<br>
+}<br>
 
 
-
-Eu sou o Lucas, atualmente Engenheiro de Software 
