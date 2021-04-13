@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.tnv27@gmail.com)](mailto:lucas.tnv27@gmail.com)
 ## Hello 👋, 
 
-:small_orange_diamond: I'm Lucas, currently Software Engineer with a focus on Frontend. I'm a technology lover and I always try to introduce myself even more in this field. For more informations :point_down:
+:small_orange_diamond: I'm Lucas, currently Tech Lead. I am a lover of technology and I always try to present myself even more in this field. For more informationss :point_down:
 
 ```json
 $scope.informations = {
