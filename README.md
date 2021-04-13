@@ -55,7 +55,7 @@ $scope.informations = {
 
     "professional" : {
         "company" : "Itaú Unibanco",
-        "office" : "Software Engineer"
+        "office" : "Tech Lead"
     }
 }
 ```
