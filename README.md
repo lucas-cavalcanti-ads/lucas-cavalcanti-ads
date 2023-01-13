@@ -24,6 +24,10 @@
             "pet"
         ] 
     },
+    "professional" : {
+        "company" : "Itaú Unibanco",
+        "office" : "Tech Lead"
+    },
     "study" : {
         "college" : "FIAP",
         "course" : "Análise e Desenvolvimento de Sistemas",
@@ -92,11 +96,7 @@
             "Ágil (Scrum, Kanban)",
             "UX/UI"
         ],            
-    },
-    "professional" : {
-        "company" : "Itaú Unibanco",
-        "office" : "Tech Lead"
-    }
+    }    
 }
 ```
 
