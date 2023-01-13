@@ -7,7 +7,7 @@
 :small_orange_diamond: I'm Lucas, currently Tech Lead. I am a lover of technology and I always try to present myself even more in this field. For more informations :point_down:
 
 ```json
-$scope.informations = {
+"informations" : {
     "personal" : {
         "location" : {
             "country" : "Brazil",
@@ -19,40 +19,80 @@ $scope.informations = {
             "girlfriend",
             "family",
             "friends",
-            "soccer",
+            "music",
             "eat",
-            "sleep"
+            "pet"
         ] 
     },
-
     "study" : {
         "college" : "FIAP",
-        "periodontitis" : "2/4",
+        "course" : "Análise e Desenvolvimento de Sistemas",
         "location" : {
             "country" : "Brazil",
             "state" : "São Paulo",
             "city" : "São Paulo"
-        },
-        "interests" : [
-            "Angular JS/+2",
-            "Type Script",
-            "Java Script",
-            "JSON",
-            "HTML 5",
-            "CSS 3",
-            "Bootstrap 4",
-            "Design UX/UI",
-            ".NET",
-            "Java",
-            "Spring Boot",
-            "Git / Github",
-            "Swagger",
-            "Postman",
-            "MVC"
-            "AWS"
-        ]
+        }
     },
-
+    "interests" : {
+        "frontend" : [
+            "Micro Front-End",
+            "Angular 2+",
+            "Type Script",
+            "Angular JS",
+            "Java Script",
+            "Bootstrap 4",
+            "Material",
+            "HTML 5",
+            "CSS 3"
+        ],
+        "backend" : [
+            "Java",
+            "Java EE",
+            "JPA",
+            "Spring Boot",
+            "Maven",
+            "JUnit"
+        ],
+        "devops" : [
+            "Docker",
+            "Git",
+            "Gitlab",
+            "Github",
+            "Github Actions"
+        ],
+        "cloud" : [
+            "AWS"
+        ],
+        "mobile" : [
+            "Kotlin",
+            "React Native"
+        ],
+        "analytics" : [
+            "Google Data Studio", 
+            "SAS"
+        ],
+        "observability" : [
+            "Splunk", 
+            "Grafana", 
+            "Prometheus"],
+        "ux-ui" : [
+            "Adobe XD"
+        ],
+        "ferramentas" : [
+            "Confluence",
+            "Jira", 
+            "Postman",
+            "Insomnia",
+            "Swagger",
+            "Android Studio"
+        ],
+        "metodologias" : [
+            "Arquitetura de Software",
+            "Rest",
+            "Ágil (Scrum, Kanban)",
+            "UX/UI"
+        ],            
+    },
     "professional" : {
         "company" : "Itaú Unibanco",
         "office" : "Tech Lead"
